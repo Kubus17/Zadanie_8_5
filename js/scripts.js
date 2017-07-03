@@ -1,6 +1,6 @@
 // scripts.js
 /* Wyskakujące okna prompt */
-var a = prompt('{Podaj bok trójkąta}');
+var a = prompt('Podaj bok trójkąta');
 var h = prompt('Podaj wysokość trójkąta');
 var triangleArea = 0;
 /* obliczamy pole trójkąta*/
